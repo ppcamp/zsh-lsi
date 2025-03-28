@@ -1,8 +1,14 @@
 # usually these aliases are defined already in .bashrc
-#alias ll='ls -alF'
-#alias la='ls -A'
-#alias l='ls -CF'
-#alias l1='ls -1'
+# alias ll='ls -alF'
+# alias la='ls -A'
+# alias l='ls -CF'
+# alias l1='ls -1'
+
+# alias lsa='ls -lah'
+# alias l='ls -lh'
+# alias ll='ls -lh'
+# alias la='ls -lAh'
+alias l1='ls -1'
 
 ############################## function: list files with perm number
 # Show alias and its permissions in "number"
